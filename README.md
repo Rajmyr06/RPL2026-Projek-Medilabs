@@ -143,7 +143,7 @@ Pastikan perangkat memiliki:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/Rohitrraj/RPL2026-Projek-Medilabs.git
+git clone https://github.com/Rajmyr06/RPL2026-Projek-Medilabs.git
 cd RPL2026-Projek-Medilabs
 ```
 
